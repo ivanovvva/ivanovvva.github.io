@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	color: pink;
+	text-decoration: underline;
+}
+h2 {
+	text-align: center;
+	color: green;
+	border: 1px solid green;
+}
+p {
+	text-align: justify;
+}
+a {
+	text-decoration: none;
+	color: #005;
+}
+
+img {
+	border-radius: 20%;
+}
+/* .img {
+	align-items: center;
+} */
+
+.i {
+ font-style: italic;
+}
+.s {
+	font-style: 
+}
+
+li {
+	list-style: square outside;
+	color: red;
+}
+
+li span {
+	color: #000;
+}

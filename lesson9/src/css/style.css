@@ -1,0 +1,54 @@
+.header {
+	font-size: 20px;
+line-height: 1.5;
+margin-bottom: 60px;
+}
+
+.section {
+	margin: 60px auto;
+}
+
+.video {
+	margin-bottom: 20px;
+}
+span {
+	display: block;
+}
+.form {
+	border: 5px solid #3c3cdd;
+	padding: 20px 20px;
+}
+.form_header, .section-heder{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 30px;
+
+}
+
+.form input {
+	margin: 10px auto;
+}
+
+.btn-form {
+	margin: 10px auto;
+	background-color: #3c3cdd;
+	border: none;
+	border-radius: 0;
+	padding: 20px ;
+}
+ 
+.feature {
+margin-top: 60px;
+margin-bottom: 80px;
+
+}
+
+.feature-box p {
+	margin: 20px auto 80px;
+/* 	height: 60px;  */ /*если разного размера картинки, заданная высота блока не ползволит разлетаться*/
+}
+
+
+.clients img {
+margin-bottom: 30px;
+} 
