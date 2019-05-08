@@ -20,3 +20,5 @@
 [Урок 10](ivanovvva.github.io/lesson10/ "Препроцессор less")
 
 [Урок 11](ivanovvva.github.io/lesson11/index.html "Сниппеты")
+
+[Урок 13](ivanovvva.github.io/lesson11/index.html "Сниппеты")
