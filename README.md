@@ -21,4 +21,4 @@
 
 [Урок 11](https://github.com/ivanovvva.github.io/lesson11/index.html "Сниппеты")
 
-[Урок 13](https://github.com/ivanovvva.github.io/lesson13/src/index.html "pixel perfect")
+[Урок 13](ivanovvva.github.io/lesson13/src/index.html "pixel perfect")
