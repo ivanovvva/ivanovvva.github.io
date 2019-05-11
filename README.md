@@ -5,7 +5,7 @@
 
 [Урок 3](vanovvva.github.io/lesson3/MyFirstProjekt/src/index.html "настройка рабочего пространства")
 
-[Урок 4](https://github.com/ivanovvva/ivanovvva.github.io "Книга на голом html")
+[Урок 4](ivanovvva.github.io/lesson3/ "Книга на голом html")
 
 [Урок 5](https://github.com/ivanovvva.github.io/lesson5/src/index.html "Книга на css")
 
