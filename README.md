@@ -3,7 +3,7 @@
 
 [Урок 2](ivanovvva.github.io/lesson2/ "вырезанные картинки")
 
-[Урок 3](vanovvva.github.io/lesson3/MyFirstProjekt/src/index.html "настройка рабочего пространства")
+[Урок 3](vanovvva.github.io/lesson3/MyFirstProjekt/src/ "настройка рабочего пространства")
 
 [Урок 4](ivanovvva.github.io/lesson3/ "Книга на голом html")
 
